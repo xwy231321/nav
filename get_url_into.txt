@@ -26,5 +26,5 @@
   { label: 'Cloudflare', url: 'https://dash.cloudflare.com/', checkIp: false },
   { label: 'copilot', url: 'https://copilot.microsoft.com/', checkIp: false },
   { label: 'YouTube', url: 'https://www.youtube.com/',checkIp: false },
-  { label: 'X', url: 'https://x.com/home',checkIp: false },
+  { label: 'X(Twitter)', url: 'https://x.com/home',checkIp: false },
 ]

@@ -1,6 +1,6 @@
 [
   { label: '青柠搜索页面', url: 'https://limestart.cn/',checkIp: false },
-  { label: 'alist-主入口', url: 'https://xwy231321.top',checkIp: false },
+  
   { label: '河工程教务', url: 'https://jwglxxfwpt.hebeu.edu.cn/',checkIp: false },
   { label: 'E2E 1-理论', url: 'http://www.huejsj.online',checkIp: false },
   { label: 'E2E 2-程序', url: 'http://www.huejsj.online:808',checkIp: false },
@@ -27,4 +27,5 @@
   { label: 'copilot', url: 'https://copilot.microsoft.com/', checkIp: false },
   { label: 'YouTube', url: 'https://www.youtube.com/',checkIp: false },
   { label: 'X(Twitter)', url: 'https://x.com/home',checkIp: false },
+{ label: 'alist-主入口-假期期间已暂停服务-仅开放阿里云副盘', url: 'https://xwy231321.top',checkIp: false },
 ]

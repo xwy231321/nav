@@ -16,11 +16,9 @@
   { label: '空投快传', url: 'https://airportal.cn/',checkIp: false },
   { label: '在线解析下载(不稳定)', url: 'https://snapany.com/zh',checkIp: false },
   { label: '鱼了个鱼', url: 'http://yulegeyu.yupi.icu/',checkIp: false },
-  { label: '雷池-阿里云', url: 'https://xwy231321.top:9443',checkIp: false },
-  { label: '雷池-本地', url: 'http://192.168.3.27:9443',checkIp: false },
-  { label: 'alist-本地入口', url: 'http://192.168.3.7:5244',checkIp: false },
+
   { label: 'alist-阿里云副盘', url: 'https://xwy231321.top:5243',checkIp: false },
-  { label: '阿里云控制平台', url: 'https://swasnext.console.aliyun.com/servers/',checkIp: false },
+  
   { label: 'github', url: 'https://github.com/',checkIp: false },
   { label: 'gitee', url: 'https://gitee.com/',checkIp: false },
   { label: 'Cloudflare', url: 'https://dash.cloudflare.com/', checkIp: false },

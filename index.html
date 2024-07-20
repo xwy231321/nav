@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>正在跳转</title>
+</head>
+<body>
+    <script>
+       
+        var isMobile = /Mobile|Android|iPhone/i.test(navigator.userAgent);
+        
+        if (isMobile) {
+            window.location.href = "a.html";
+        } else {
+            window.location.href = "b.html";
+        }
+    </script>
+</body>
+</html>

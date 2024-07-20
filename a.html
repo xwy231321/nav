@@ -207,7 +207,7 @@ const temporary = [
 createButtonsForUrls(urlMappings);
 async function fetchUrlMappings() {
   try {
-    const response = await fetch('https://raw.githubusercontent.com/xwy231321/others/main/get_url_into.txt');
+    const response = await fetch('./get_url_into.txt');
     const data = await response.text();
     if (urlMappings != null || urlMappings != 0 || urlMappings != undefined|| urlMappings != ''){
       urlMappings = eval(data);

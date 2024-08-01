@@ -26,4 +26,7 @@
   { label: 'YouTube', url: 'https://www.youtube.com/',checkIp: false },
   { label: 'X(Twitter)', url: 'https://x.com/home',checkIp: false },
 { label: 'alist-主入口-假期期间已暂停服务-仅开放阿里云副盘', url: 'https://xwy231321.top',checkIp: false },
+ { label: '次元城动画', url: 'https://www.cycanime.com/',checkIp: false },
+  { label: '樱花动漫 new', url: 'https://yinghua.us/',checkIp: false },
+  { label: '樱花动漫 old', url: 'http://www.iyinghua.io/',checkIp: false },
 ]

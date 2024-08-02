@@ -32,4 +32,5 @@
   { label: '樱花动漫 old', url: 'http://www.iyinghua.io/',checkIp: false },
 { label: 'LKs网站推荐', url: 'https://lkssite.vip/',checkIp: false },
 { label: '30tool', url: 'https://www.30aitool.com/',checkIp: false },
+{ label: '五洋のAlist', url: 'http://alist.nhirsama.online/',checkIp: false },
 ]

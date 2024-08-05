@@ -2,6 +2,7 @@
   { label: '青柠搜索页面', url: 'https://limestart.cn/',checkIp: false, category: '工具' },
  
   { label: '河工程教务', url: 'https://jwglxxfwpt.hebeu.edu.cn/',checkIp: false, category: '学校' },
+  { label: '河工程成绩查询(含平时分)', url: 'https://jwglxxfwpt.hebeu.edu.cn/cjcx/cjcx_cxDgXsxmcj.html?gnmkdm=N305007&layout=default',checkIp: false, category: '学校' },
   { label: 'E2E 1-理论', url: 'http://www.huejsj.online',checkIp: false, category: '学校' },
   { label: 'E2E 2-程序', url: 'http://www.huejsj.online:808',checkIp: false, category: '学校' },
   { label: '爱习题', url: 'https://ct.hep.com.cn/test/#/',checkIp: false, category: '学校' },

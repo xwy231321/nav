@@ -23,6 +23,7 @@
   { label: '阿里云控制平台', url: 'https://swasnext.console.aliyun.com/servers/',checkIp: false, category: '开发' },
   { label: 'github', url: 'https://github.com/',checkIp: false, category: '开发' },
   { label: 'gitee', url: 'https://gitee.com/',checkIp: false, category: '开发' },
+  { label: '雨云', url: 'https://app.rainyun.com/',checkIp: false, category: '开发' },
   { label: 'Cloudflare', url: 'https://dash.cloudflare.com/', checkIp: false, category: '国际' },
   { label: 'copilot', url: 'https://copilot.microsoft.com/', checkIp: false, category: '国际' },
   { label: 'YouTube', url: 'https://www.youtube.com/',checkIp: false, category: '国际' },

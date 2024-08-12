@@ -1,5 +1,4 @@
 [
-  { label: '本页面手机版最新版本下载（1.1.0）', url: 'https://xwy231321.top/d/xwy/apk/%E8%B7%B3%E8%BD%AC%E5%8F%B0-%E6%AD%A3%E5%BC%8F%E7%89%88.apk',checkIp: false, category: '软件更新下载' },
   { label: '青柠搜索页面', url: 'https://limestart.cn/',checkIp: false, category: '工具' },
   { label: '罗盘时钟(pc)', url: 'https://nav.xwy231321.top/time.html',checkIp: false, category: '工具' },
   { label: '河工程教务', url: 'https://jwglxxfwpt.hebeu.edu.cn/',checkIp: false, category: '学校' },
@@ -37,4 +36,5 @@
   { label: 'LKs网站推荐', url: 'https://lkssite.vip/',checkIp: false, category: '第三方集合站' },
   { label: '30tool', url: 'https://www.30aitool.com/',checkIp: false, category: '第三方集合站' },
   { label: '五洋のAlist', url: 'http://alist.nhirsama.online/',checkIp: false, category: '第三方集合站' },
+  { label: '本页面手机版本下载（1.1.1）', url: 'https://xwy231321.top/d/xwy/apk/%E8%B7%B3%E8%BD%AC%E5%8F%B0V1.1.1.apk',checkIp: false, category: '软件更新下载' },
 ]

@@ -1,4 +1,5 @@
 [
+    { label: '本页面手机版最新版本下载（1.1.0）', url: 'https://xwy231321.top/d/xwy/apk/%E8%B7%B3%E8%BD%AC%E5%8F%B0-%E6%AD%A3%E5%BC%8F%E7%89%88.apk',checkIp: false, category: '软件更新下载' },
   { label: '青柠搜索页面', url: 'https://limestart.cn/',checkIp: false, category: '工具' },
     { label: '罗盘时钟(pc)', url: 'https://nav.xwy231321.top/time.html',checkIp: false, category: '工具' },
 

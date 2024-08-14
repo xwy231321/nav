@@ -36,5 +36,5 @@
   { label: 'LKs网站推荐', url: 'https://lkssite.vip/',checkIp: false, category: '第三方集合站' },
   { label: '30tool', url: 'https://www.30aitool.com/',checkIp: false, category: '第三方集合站' },
   { label: '五洋のAlist', url: 'http://alist.nhirsama.online/',checkIp: false, category: '第三方集合站' },
-  { label: '本页面手机版本下载（1.1.1）', url: 'https://xwy231321.top/d/xwy/apk/%E8%B7%B3%E8%BD%AC%E5%8F%B0V1.1.1.apk',checkIp: false, category: '软件更新下载' },
+  { label: '本页面手机版本下载（跳转台）', url: 'https://xwy231321.top:80/d/xwy/apk/%E8%B7%B3%E8%BD%AC%E5%8F%B0.apk',checkIp: false, category: '软件更新下载' },
 ]

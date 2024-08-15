@@ -31,7 +31,7 @@
   { label: 'X(Twitter)', url: 'https://x.com/home',checkIp: false, category: '国际' },
   { label: '次元城动画', url: 'https://www.cycanime.com/',checkIp: false, category: '动漫' },
   { label: 'AnFuns动漫', url: 'https://www.anfuns.org/',checkIp: false, category: '动漫' },
-  { label: '樱花动漫 new', url: 'https://yinghua.us/',checkIp: false, category: '动漫' },
+  { label: '樱花动漫 new', url: 'https://www.mltrobot.com/',checkIp: false, category: '动漫' },
   { label: '樱花动漫 old', url: 'http://www.iyinghua.io/',checkIp: false, category: '动漫' },
   { label: 'LKs网站推荐', url: 'https://lkssite.vip/',checkIp: false, category: '第三方集合站' },
   { label: '30tool', url: 'https://www.30aitool.com/',checkIp: false, category: '第三方集合站' },

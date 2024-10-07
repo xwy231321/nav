@@ -29,7 +29,7 @@
   { label: 'Cloudflare', url: 'https://dash.cloudflare.com/', checkIp: false, category: '国际' },
   { label: 'YouTube', url: 'https://www.youtube.com/',checkIp: false, category: '国际' },
   { label: 'X(Twitter)', url: 'https://x.com/home',checkIp: false, category: '国际' },
-  { label: '次元城动画', url: 'https://www.cycanime.com/',checkIp: false, category: '动漫' },
+  { label: '次元城动画', url: 'https://www.cyc-anime.net/',checkIp: false, category: '动漫' },
   { label: 'AnFuns动漫', url: 'https://www.anfuns.org/',checkIp: false, category: '动漫' },
   { label: '樱花动漫 new', url: 'https://www.mltrobot.com/',checkIp: false, category: '动漫' },
   { label: '樱花动漫 old', url: 'http://www.iyinghua.io/',checkIp: false, category: '动漫' },

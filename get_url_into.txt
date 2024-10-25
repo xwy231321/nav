@@ -37,5 +37,5 @@
   { label: '30tool', url: 'https://www.30aitool.com/',checkIp: false, category: '第三方集合站' },
   { label: '五洋のAlist', url: 'http://alist.nhirsama.online/',checkIp: false, category: '第三方集合站' },
   { label: '本页面手机版本下载（跳转台）', url: 'https://xwy231321.top:80/d/xwy/apk/%E8%B7%B3%E8%BD%AC%E5%8F%B0.apk',checkIp: false, category: '软件更新下载' },
-{ label: '学习痛自定义签到', url: 'https://xiucat.top/',checkIp: false, category: '学校' },
+{ label: '学习痛自定义签到', url: 'https://xiucat.top',checkIp: false, category: '学校' },
 ]

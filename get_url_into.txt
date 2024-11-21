@@ -37,4 +37,5 @@
   { label: '五洋のAlist', url: 'http://alist.nhirsama.online/',checkIp: false, category: '第三方集合站' },
   { label: '跳转台 测试版', url: 'https://xwy231321.top:5243/d/xwy/apk/%E8%B7%B3%E8%BD%AC%E5%8F%B0new.apk',checkIp: false, category: '软件更新下载' },
 { label: '学习痛自定义签到', url: 'https://xiucat.top',checkIp: false, category: '学校' },
+  { label: '以图识番/gal', url: 'https://ai.animedb.cn/',checkIp: false, category: '动漫' },
 ]
